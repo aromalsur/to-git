@@ -1,0 +1,29 @@
+a{
+    color: white;
+}#footerh{
+
+    text-align: center;
+    color: white; text-align: center;
+
+}.row2{
+    padding-top: 120px;
+    background-image: url(http://www.rentacarkerala.net/img/foot.jpg);
+    background-repeat: no-repeat;
+
+}.modal-content{
+    background-image: url(https://e1.pxfuel.com/desktop-wallpaper/346/488/desktop-wallpaper-bmw-black-car-bmw-amoled.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}.row4{
+    text-align: center;
+    margin-top: 35px;
+}.row5{
+    display: flex;
+    justify-content: space-around;
+
+}nav li:hover{
+    color: rgb(219, 45, 46);
+  
+    
+
+}
